@@ -10,6 +10,7 @@ The following versions of each viewer were used in testing:
 - <a href="https://github.com/google/neuroglancer">neuroglancer</a>.
 - <a href="https://webknossos.org">webKnossos</a> version 19988.
 - <a href="https://www.openmicroscopy.org/omero/">OMERO</a> with BioFormats <a href="https://github.com/ome/ZarrReader">ZarrReader</a> 0.2.0.
+- <a href="https://github.com/saalfeldlab/n5-viewer">N5 viewer</a> Support upcoming.
 
 
 <style>
